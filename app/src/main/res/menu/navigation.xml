@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_boss"
+        android:title="@string/BossProfile" />
+
+    <item
+        android:id="@+id/navigation_friend"
+        android:title="@string/FriendProfile" />
+
+    <item
+        android:id="@+id/navigation_family"
+        android:title="@string/FamilyProfile" />
+
+</menu>
